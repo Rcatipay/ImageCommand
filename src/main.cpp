@@ -1,5 +1,5 @@
 #include<iostream>
-#include"read.h"
+#include"../header/bitmap.h"
 
 using namespace std;
 
